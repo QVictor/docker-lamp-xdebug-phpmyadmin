@@ -1,4 +1,4 @@
-# Preset for Docker
+# Preset for LAMP stack in Docker with installing xdebug
 
 ## What is included
 
