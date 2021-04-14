@@ -2,7 +2,7 @@
 
 ## What is included
 
-###images:
+### images:
 + php:7.3-apache
 
 + mysql:8.0.16
@@ -11,7 +11,7 @@
 
 + phpmyadmin/phpmyadmin:4.8
 
-###also:
+### also:
 + automatic deployment db dump in directory "dump"
 
 ## How to install
@@ -20,4 +20,4 @@ Just build and run composition
     
     docker-compose up -d --build
 
-#####Mysql export dump, you must wait about one minute!
+##### Mysql export dump, you must wait about one minute!
